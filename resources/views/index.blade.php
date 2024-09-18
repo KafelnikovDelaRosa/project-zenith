@@ -12,8 +12,8 @@
     <nav class="flex p-6 justify-between px-8">
         <div class="flex flex-1">
             <div class="flex items-center gap-4">
-                <img class="h-[50px] w-[50px]" src="{{url('logo.png')}}" alt="">
-                <p class="text-[1.3rem] font-semibold">
+                <img class="h-8 w-auto" src="{{url('logo.png')}}" alt="">
+                <p class="text-md font-semibold text-gray-900">
                     INDIGO ZENITH PC
                 </p>
             </div>
@@ -23,9 +23,9 @@
         </div>
 
         <div class="hidden lg:flex lg:gap-12 lg:items-center">
-            <a class=" font-semibold leading-6" href="#">HOME</a>
-            <a class=" font-semibold leading-6" href="#">SHOP</a>
-            <a class=" font-semibold leading-6" href="#">CONTACTS</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">Home</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">Shop</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">Contact</a>
         </div>
         <div class="justify-end hidden lg:flex lg:flex-1">
         </div>
