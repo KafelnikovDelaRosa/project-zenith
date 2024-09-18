@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="flex lg:hidden items-center">
-            pp
+            placeholder
         </div>
 
         <div class="hidden lg:flex lg:gap-12 lg:items-center">
