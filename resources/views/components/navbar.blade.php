@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    @vite("resources/css/app.css")
-
-</head>
-<body class=" bg-slate-600">
 <header class=" bg-white shadow-xl z-10">
     <nav class="flex p-6 justify-between px-8">
         <!-- Logo -->
@@ -35,7 +25,7 @@
         </div>
 
         <!-- Mobile View nav -->
-        <div class= "fixed bg-white right-0 top-0 w-full h-full lg:hidden p-6">
+        <div class= "fixed bg-white right-0 top-0 w-full h-full hidden lg:hidden p-6">
             <div class="flex flex-col">
                 <div class="flex justify-between items-center">
                     <img class="h-12 w-auto" src="{{url('logo.png')}}" alt="logo">
@@ -44,15 +34,12 @@
                     </svg>
                 </div>
                 <div class="py-8 flex flex-col gap-12">
-                    <a class="text-lg text-gray-900 font-bold leading-6" href="#">HOME</a>
-                    <a class="text-lg text-gray-900 font-bold leading-6" href="#">SHOP</a>
-                    <a class="text-lg text-gray-900 font-bold leading-6" href="#">CONTACT</a>
+                    <a class="text-md text-gray-900 font-semibold leading-6" href="#">HOME</a>
+                    <a class="text-md text-gray-900 font-semibold leading-6" href="#">SHOP</a>
+                    <a class="text-md text-gray-900 font-semibold leading-6" href="#">CONTACT</a>
                 </div>
                 <div class="border"></div>
             </div>
         </div>
     </nav>
 </header>
-
-</body>
-</html>
