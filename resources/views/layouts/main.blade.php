@@ -6,7 +6,7 @@
     <title>Document</title>
     @vite("resources/css/app.css")
 </head>
-<body class=" bg-slate-600">
+<body class=" bg-white">
     <x-navbar />
     @yield('content')
 </body>

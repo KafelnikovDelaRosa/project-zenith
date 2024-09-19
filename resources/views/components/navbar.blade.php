@@ -17,9 +17,9 @@
         </div>
         <!-- Nav Links -->
         <div class="hidden lg:flex lg:gap-12 lg:items-center">
-            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">HOME</a>
-            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">SHOP</a>
-            <a class="text-sm text-gray-900 font-semibold leading-6" href="#">CONTACT</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="{{route('home')}}">HOME</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="{{route('shop')}}">SHOP</a>
+            <a class="text-sm text-gray-900 font-semibold leading-6" href="{{route('contact')}}">CONTACT</a>
         </div>
         <div class="justify-end hidden lg:flex lg:flex-1">
         </div>
