@@ -1,4 +1,4 @@
-<header class=" bg-white shadow-xl z-10">
+<header class="z-20 absolute top-0 w-full">
     <nav class="flex p-6 justify-between px-8">
         <!-- Logo -->
         <div class="flex flex-1">

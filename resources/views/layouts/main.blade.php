@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="{{asset('logo.png')}}" type="image/x-icon">
     @vite("resources/css/app.css")
 </head>
-<body class=" bg-white">
+<body>
     <x-navbar />
     @yield('content')
 </body>
