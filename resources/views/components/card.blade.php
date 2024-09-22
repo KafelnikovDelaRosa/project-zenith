@@ -1,7 +1,13 @@
-<div class="flex  w-full max-w-[26rem] h-[32rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-lg">
+@props([
+    'image' => NULL,
+    'name' => NULL,
+    'description' => NULL,
+    'price' => NULL
+])
+<div class="flex  w-full max-w-[26rem] h-fill object-cover flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-lg">
     <div class="relative mx-4 mt-4 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40">
-        <img src="https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1470&amp;q=80" alt="ui/ux review check">
-            <div class="to-bg-black-10 absolute inset-0 h-full w-full bg-gradient-to-tr from-transparent via-transparent to-black/60"></div>
+        <img src="{{$image}}" alt="ui/ux review check">
+            <div class="to-bg-black-10 absolute inset-0 w-full h-full bg-gradient-to-tr from-transparent via-transparent to-black/60"> </div>
                 <button class="!absolute top-4 right-4 h-8 max-h-[32px] w-8 max-w-[32px] select-none rounded-full text-center align-middle font-sans text-xs font-medium uppercase text-red-500 transition-all hover:bg-red-500/10 active:bg-red-500/30 disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none" type="button" data-ripple-dark="true">
                     <span class="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 transform">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-6 w-6">
