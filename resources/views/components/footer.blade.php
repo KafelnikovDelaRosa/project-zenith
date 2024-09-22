@@ -1,4 +1,4 @@
-<footer class="p-4 bg-white shadow md:px-6 md:py-8 dark:bg-gray-800">
+<footer class="mt-8 p-4 bg-white shadow md:px-6 md:py-8 dark:bg-gray-800">
 	<div class="sm:flex sm:items-center sm:justify-between">
 			<a href="#" target="_blank" class="flex items-center mb-4 sm:mb-0">
 				<img src="{{asset('logo.png')}}" class="mr-4 h-8" alt="Flowbite Logo" />

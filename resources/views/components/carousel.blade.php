@@ -1,7 +1,7 @@
 <div class="grid w-full h-screen grid-cols-1 my-auto mb-8 md:grid-cols-2 xl:gap-14 md:gap-5 px-12 bg-indigo-900 bg-opacity-80 text-white">
     <div class="items-center hidden col-span-1 md:flex px-4">
         <div class="relative w-2xl overflow-hidden ">
-            <div class="h-[750px] overflow-hidden flex items-center justify-center">
+            <div class="h-[750px] flex items-center justify-center">
                 <img id="0" class="object-cover w-full h-full animate-showcase pics rounded-lg" src="{{asset('banner01.jpg')}}" alt="">
                 <img id="1" class="hidden object-cover w-full h-full animate-showcase pics rounded-lg " src="{{asset('banner02.jpg')}}" alt="">
                 <img id="2" class="hidden object-cover w-full h-full animate-showcase pics rounded-lg" src="{{asset('banner03.jpg')}}" alt="">
