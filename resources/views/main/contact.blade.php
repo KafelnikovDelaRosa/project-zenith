@@ -3,17 +3,17 @@
     <div class="grid w-full h-screen">
         <div class="container py-24 mx-auto flex gap-4 sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-                <iframe width="100%" height="100%" class="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.7494898178893!2d121.03265027613077!3d14.613341485874523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b7c552d31d17%3A0x7da13595a0d2cea2!2sGilmore%20I.T%20Solutions!5e0!3m2!1sen!2sph!4v1727016207471!5m2!1sen!2sph" style="filter: grayscale(1) contrast(1.2) opacity(0.4);"></iframe>
+                <iframe width="100%" height="100%" class="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d378.00103441616005!2d121.14320948722568!3d13.918161850889701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1ssampaguita%20homes%20lipa%20batangas!5e1!3m2!1sen!2sph!4v1727233043150!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="filter: grayscale(1) contrast(1.2) opacity(0.4);"></iframe>
                 <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
                     <div class="lg:w-1/2 px-6">
                         <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
-                        <p class="mt-1">8, Gilmore St, 8 Gilmore Ave, Cor 1st St, Quezon City, 1112 Metro Manila</p>
+                        <p class="mt-1">Blk. 6, Lot 57, Lauan St., Sampaguita Homes, Lipa City, Batangas</p>
                     </div>
                     <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
                         <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
                         <a class="text-blue-800 leading-relaxed">company@example.com</a>
                         <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-                        <p class="leading-relaxed">(02) 6912 7819</p>
+                        <p class="leading-relaxed">09152010186</p>
                     </div>
                 </div>
             </div>
