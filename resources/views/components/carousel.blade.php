@@ -18,8 +18,11 @@
         </div>
         <!-- /mobile view -->
         <h1 class="mb-8 text-4xl font-extrabold leading-tight lg:text-6xl text-dark-grey-900">My Previous Builds</h1>
+        <p class="mb-6 text-base font-normal leading-7 lg:w-3/4 text-grey-900">
+                Looking for a high quality gaming PC for a great deal? 
+        </p>
         <p class="mb-6 text-base font-normal leading-7 lg:w-3/4 text-grey-900 ">
-            Say goodbye to endless hours spent going from one place to another to look for quality pc products with affordable pricings. With limited offers
+        Keep a close eye on my monthly drop builds which I have meticulously built, tested, and benchmarked myself to ensure the most optimal end-user experience. Come follow along for the ride as we go through this journey of all things computers and tech both as a creator and a certified Computer Engineer graduate!
         </p>
     </div>
 </div>
